@@ -2,7 +2,7 @@
 ## 目的
 减少H5项目在开发调试过程中频繁编译打包后再使用ftp工具部署至服务器的手动过程，提高工作效率。
 ## 安装
-1. git clone https://github.com/hello-jun/deploy.git 拉取deploy.js，放置在项目根目录下;
+1. `git clone https://github.com/hello-jun/deploy.git` 拉取deploy.js，放置在项目根目录下;
 2. 安装 ssh2 、moment 		
 >`yarn add ssh2 moment `
 
